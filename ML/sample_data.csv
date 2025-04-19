@@ -1,0 +1,8 @@
+Name,Age,Gender,City,Salary
+Alice,29,Female,New York,70000
+Bob,,Male,Los Angeles,80000
+Charlie,25,,Chicago,
+David,40,Male,,95000
+Eva,30,Female,Phoenix,85000
+Frank,28,Male,Dallas,
+Grace,,Female,,72000
