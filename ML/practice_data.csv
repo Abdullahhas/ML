@@ -1,0 +1,11 @@
+Name,Age,Gender,City,Salary,Department
+Alice,29,Female,New York,70000,HR
+Bob,,Male,Los Angeles,80000,Finance
+Charlie,25,,Chicago,,IT
+David,40,Male,,95000,IT
+Eva,30,Female,Phoenix,85000,HR
+Frank,28,Male,Dallas,,Finance
+Grace,,Female,,72000,HR
+Henry,35,Male,Houston,78000,
+Ivy,,Female,Seattle,,Finance
+Jack,32,,Boston,88000,IT
